@@ -77,7 +77,7 @@ struct ExpenseRow: View {
     @ViewBuilder
     func DescriptionDate()-> some View{
         // Expense element variables
-        let name = expense["name"] ?? ""
+        let name = expense["name"]?.replacingOccurrences(of: "\"", with: "") ?? ""
         let date = expense["date"]?.dropLast().dropFirst() ?? ""
         
         VStack(alignment: .leading, spacing: 5){
