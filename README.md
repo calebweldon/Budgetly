@@ -1,3 +1,3 @@
 # Budgetly
 
-[Icon][./Images/BudgetlyIcon.png]
+![Icon][./Images/BudgetlyIcon.png]
