@@ -1,3 +1,3 @@
 # Budgetly
 
-[Icon][./Desktop/Budgetly/Images/iconShowcase]
+[Icon][./Images/BudgetlyIcon.png]
