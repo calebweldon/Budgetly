@@ -54,17 +54,21 @@ Follow the steps below to set up and run the project locally on your machine.
 
 ### Prerequisites
 
-* Xcode
-  > Download from the [app store](https://apps.apple.com/us/app/xcode/id497799835?mt=12)
+* Xcode  
+  > Download Xcode from the [Mac App Store](https://apps.apple.com/us/app/xcode/id497799835?mt=12)
 
 ### Installation
 
-1. Clone the repo
+1. Clone the repository:
+
    ```sh
    git clone https://github.com/calebweldon/Budgetly
+   cd Budgetly
    ```
-2. Open the .xcodeproj
-3. Press the ▶️ Run button in the top toolbar to build and launch the app in the iOS Simulator
+
+2. Open the `.xcodeproj` file in Xcode
+
+3. Press the ▶️ **Run** button in the top toolbar to build and launch the app in the iOS Simulator
 
 ### Dependencies
 
