@@ -34,7 +34,7 @@
   <a href="https://github.com/calebweldon/Budgetly/assets/132513904/cc40ab5f-dca4-42e0-9990-1820f947a927">
     <img src="https://img.shields.io/badge/%E2%96%B6%EF%B8%8F%20Watch%20Demo-Click%20Here-orange?style=for-the-badge" alt="Watch Demo">
   </a>
-  <p><i>Click the link above to watch a short demo of the app in action.</i></p>
+  <p><i>Click the link above to watch a short demo of the app in action</i></p>
 </div>
 
 
