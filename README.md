@@ -80,7 +80,7 @@ Follow the steps below to set up and run the project locally on your machine.
 <!-- CONTACT -->
 ## Contact
 
-Caleb Weldon | [Website](https://calebweldon.com/) | calebweldon2026@u.northwestern.edu
+Caleb Weldon | [Website](https://calebweldon.com/) | caleb.weldon04@gmail.com
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
